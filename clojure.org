@@ -1,0 +1,10 @@
+#+TITLE: Clojure
+
+* Beginning Stages?
+** Day 1
+- Watched [[https://youtu.be/m0rSJ9xdsdk][Interactive Programming for Artificial Intelligence - Dragan Djuric]]
+  - Subscribed to the books and will be spending some time to follow them
+- Watched [[https://youtu.be/bEOOYbscyTs][Clojure is Not Afraid of the GPU - Dragan Djuric]]
+  - Massive speed ups
+- Did 4clojure 26 - Fibonacci
+  - Still trying to wrap my head around the solution

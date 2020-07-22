@@ -1,4 +1,3 @@
-#+TITLE: Readme
+#+TITLE:  My Developer Journal
 
-* My Developer Journal
 Committing to challenges like this can be pretty daunting but I want to do so and really pursue Clojure (primarily for now).
