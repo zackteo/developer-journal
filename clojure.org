@@ -8,3 +8,7 @@
   - Massive speed ups
 - Did 4clojure 26 - Fibonacci
   - Still trying to wrap my head around the solution
+** Day 2
+- Midway through Casting SPELs in LISP (Clojure Lisp Version)
+  - Finally getting my feet wet into SPELs (LISP Macros)
+  - Got distracted so not as much progress as I would've liked but baby steps I guess
