@@ -12,3 +12,13 @@
 - Midway through Casting SPELs in LISP (Clojure Lisp Version)
   - Finally getting my feet wet into SPELs (LISP Macros)
   - Got distracted so not as much progress as I would've liked but baby steps I guess
+** Day 3
+- Finished appropos episode - talking about transducers, regal for REGEX
+- [[https://youtu.be/6mTbuzafcII]["Transducers" by Rich Hickey]]
+  - Not sure when I'll use this but hmmm
+** Day 4
+- Clojure from the ground up: Macros
+- Watched [[https://www.youtube.com/watch?v=zYNlZXTV14E][Scicloj Interview #2: Chris Nuernberger]]
+- Read [[https://clojureverse.org/t/what-is-it-about/5848][What is it about? (Clojureverse)]]
+  - Really have a lot a ton to explore in Clojure
+** Day 5
