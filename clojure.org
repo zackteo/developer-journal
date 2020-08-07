@@ -22,3 +22,10 @@
 - Read [[https://clojureverse.org/t/what-is-it-about/5848][What is it about? (Clojureverse)]]
   - Really have a lot a ton to explore in Clojure
 ** Day 5
+- Completed Exercism - Armstrong Numbers
+  - Used lazy sequences to get digits, still gonna take awhile to get used to this ...
+** Day 6
+- Completed Exercism - Beer Song
+  - Amazing how you can use mulitmethods and format to solve this ...
+  - Used the treading macro!
+  - dec/inc instead of -1/+1
